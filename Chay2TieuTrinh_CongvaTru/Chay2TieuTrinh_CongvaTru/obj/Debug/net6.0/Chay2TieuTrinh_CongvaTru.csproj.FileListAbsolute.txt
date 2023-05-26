@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\He-Dieu-Hanh\Chay2TieuTrinh_CongvaTru\Chay2TieuTrinh_CongvaTru\bin\Debug\net6.0\Chay2TieuTrinh_CongvaTru.exe
+C:\Users\Administrator\Documents\GitHub\He-Dieu-Hanh\Chay2TieuTrinh_CongvaTru\Chay2TieuTrinh_CongvaTru\bin\Debug\net6.0\Chay2TieuTrinh_CongvaTru.deps.json
+C:\Users\Administrator\Documents\GitHub\He-Dieu-Hanh\Chay2TieuTrinh_CongvaTru\Chay2TieuTrinh_CongvaTru\bin\Debug\net6.0\Chay2TieuTrinh_CongvaTru.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\He-Dieu-Hanh\Chay2TieuTrinh_CongvaTru\Chay2TieuTrinh_CongvaTru\bin\Debug\net6.0\Chay2TieuTrinh_CongvaTru.dll
+C:\Users\Administrator\Documents\GitHub\He-Dieu-Hanh\Chay2TieuTrinh_CongvaTru\Chay2TieuTrinh_CongvaTru\bin\Debug\net6.0\Chay2TieuTrinh_CongvaTru.pdb
+C:\Users\Administrator\Documents\GitHub\He-Dieu-Hanh\Chay2TieuTrinh_CongvaTru\Chay2TieuTrinh_CongvaTru\obj\Debug\net6.0\Chay2TieuTrinh_CongvaTru.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\He-Dieu-Hanh\Chay2TieuTrinh_CongvaTru\Chay2TieuTrinh_CongvaTru\obj\Debug\net6.0\Chay2TieuTrinh_CongvaTru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\He-Dieu-Hanh\Chay2TieuTrinh_CongvaTru\Chay2TieuTrinh_CongvaTru\obj\Debug\net6.0\Chay2TieuTrinh_CongvaTru.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\He-Dieu-Hanh\Chay2TieuTrinh_CongvaTru\Chay2TieuTrinh_CongvaTru\obj\Debug\net6.0\Chay2TieuTrinh_CongvaTru.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\He-Dieu-Hanh\Chay2TieuTrinh_CongvaTru\Chay2TieuTrinh_CongvaTru\obj\Debug\net6.0\Chay2TieuTrinh_CongvaTru.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\He-Dieu-Hanh\Chay2TieuTrinh_CongvaTru\Chay2TieuTrinh_CongvaTru\obj\Debug\net6.0\Chay2TieuTrinh_CongvaTru.dll
+C:\Users\Administrator\Documents\GitHub\He-Dieu-Hanh\Chay2TieuTrinh_CongvaTru\Chay2TieuTrinh_CongvaTru\obj\Debug\net6.0\refint\Chay2TieuTrinh_CongvaTru.dll
+C:\Users\Administrator\Documents\GitHub\He-Dieu-Hanh\Chay2TieuTrinh_CongvaTru\Chay2TieuTrinh_CongvaTru\obj\Debug\net6.0\Chay2TieuTrinh_CongvaTru.pdb
+C:\Users\Administrator\Documents\GitHub\He-Dieu-Hanh\Chay2TieuTrinh_CongvaTru\Chay2TieuTrinh_CongvaTru\obj\Debug\net6.0\Chay2TieuTrinh_CongvaTru.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\He-Dieu-Hanh\Chay2TieuTrinh_CongvaTru\Chay2TieuTrinh_CongvaTru\obj\Debug\net6.0\ref\Chay2TieuTrinh_CongvaTru.dll

@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\He-Dieu-Hanh\SapXepChanLe(multiThread)\SapXepChanLe(multiThread)\bin\Debug\net6.0\SapXepChanLe(multiThread).exe
+C:\Users\Administrator\Documents\GitHub\He-Dieu-Hanh\SapXepChanLe(multiThread)\SapXepChanLe(multiThread)\bin\Debug\net6.0\SapXepChanLe(multiThread).deps.json
+C:\Users\Administrator\Documents\GitHub\He-Dieu-Hanh\SapXepChanLe(multiThread)\SapXepChanLe(multiThread)\bin\Debug\net6.0\SapXepChanLe(multiThread).runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\He-Dieu-Hanh\SapXepChanLe(multiThread)\SapXepChanLe(multiThread)\bin\Debug\net6.0\SapXepChanLe(multiThread).dll
+C:\Users\Administrator\Documents\GitHub\He-Dieu-Hanh\SapXepChanLe(multiThread)\SapXepChanLe(multiThread)\bin\Debug\net6.0\SapXepChanLe(multiThread).pdb
+C:\Users\Administrator\Documents\GitHub\He-Dieu-Hanh\SapXepChanLe(multiThread)\SapXepChanLe(multiThread)\obj\Debug\net6.0\SapXepChanLe(multiThread).csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\He-Dieu-Hanh\SapXepChanLe(multiThread)\SapXepChanLe(multiThread)\obj\Debug\net6.0\SapXepChanLe(multiThread).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\He-Dieu-Hanh\SapXepChanLe(multiThread)\SapXepChanLe(multiThread)\obj\Debug\net6.0\SapXepChanLe(multiThread).AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\He-Dieu-Hanh\SapXepChanLe(multiThread)\SapXepChanLe(multiThread)\obj\Debug\net6.0\SapXepChanLe(multiThread).AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\He-Dieu-Hanh\SapXepChanLe(multiThread)\SapXepChanLe(multiThread)\obj\Debug\net6.0\SapXepChanLe(multiThread).csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\He-Dieu-Hanh\SapXepChanLe(multiThread)\SapXepChanLe(multiThread)\obj\Debug\net6.0\SapXepChanLe(multiThread).dll
+C:\Users\Administrator\Documents\GitHub\He-Dieu-Hanh\SapXepChanLe(multiThread)\SapXepChanLe(multiThread)\obj\Debug\net6.0\refint\SapXepChanLe(multiThread).dll
+C:\Users\Administrator\Documents\GitHub\He-Dieu-Hanh\SapXepChanLe(multiThread)\SapXepChanLe(multiThread)\obj\Debug\net6.0\SapXepChanLe(multiThread).pdb
+C:\Users\Administrator\Documents\GitHub\He-Dieu-Hanh\SapXepChanLe(multiThread)\SapXepChanLe(multiThread)\obj\Debug\net6.0\SapXepChanLe(multiThread).genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\He-Dieu-Hanh\SapXepChanLe(multiThread)\SapXepChanLe(multiThread)\obj\Debug\net6.0\ref\SapXepChanLe(multiThread).dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Documents\\GitHub\\He-Dieu-Hanh\\MultiThread\\MultiThread.csproj": {}
+    "C:\\Users\\Administrator\\Documents\\GitHub\\He-Dieu-Hanh\\Chay2TieuTrinh_CongvaTru\\Chay2TieuTrinh_CongvaTru\\Chay2TieuTrinh_CongvaTru.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Documents\\GitHub\\He-Dieu-Hanh\\MultiThread\\MultiThread.csproj": {
+    "C:\\Users\\Administrator\\Documents\\GitHub\\He-Dieu-Hanh\\Chay2TieuTrinh_CongvaTru\\Chay2TieuTrinh_CongvaTru\\Chay2TieuTrinh_CongvaTru.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\GitHub\\He-Dieu-Hanh\\MultiThread\\MultiThread.csproj",
-        "projectName": "MultiThread",
-        "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\He-Dieu-Hanh\\MultiThread\\MultiThread.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\GitHub\\He-Dieu-Hanh\\Chay2TieuTrinh_CongvaTru\\Chay2TieuTrinh_CongvaTru\\Chay2TieuTrinh_CongvaTru.csproj",
+        "projectName": "Chay2TieuTrinh_CongvaTru",
+        "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\He-Dieu-Hanh\\Chay2TieuTrinh_CongvaTru\\Chay2TieuTrinh_CongvaTru\\Chay2TieuTrinh_CongvaTru.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\He-Dieu-Hanh\\MultiThread\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\He-Dieu-Hanh\\Chay2TieuTrinh_CongvaTru\\Chay2TieuTrinh_CongvaTru\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

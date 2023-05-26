@@ -4,16 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MultiThread
+namespace Chay2TieuTrinh_CongvaTru
 {
-    internal class lab2
+    internal class MultiThread
     {
-        
         static int count = 0;
-
-       
-
-
         //
         public void StartTTCong()
         {
@@ -23,7 +18,7 @@ namespace MultiThread
             Thread thread = new Thread(method);
             //khoi chay tiểu trình mới
             thread.Start();
- 
+
         }
         public void StartTTTru()
         {
@@ -31,10 +26,10 @@ namespace MultiThread
             Thread thread2 = new Thread(method2);
             thread2.Start();
         }
-        
-      
 
-        private void TienTrinhCong()
+
+
+        public void TienTrinhCong()
         {
             //Hien thong bao ra cua so Console voi iteration lan, nghi giua moi thong bao
             //Một khoảng thời gian được chỉ định(delay)
@@ -46,17 +41,16 @@ namespace MultiThread
             }
         }
 
-        private void TienTrinhTru()
+        public void TienTrinhTru()
         {
-            for(int i = 2500; i > 0; i--)
+            for (int i = 2500; i > 0; i--)
             {
                 count--;
                 Console.WriteLine("{0} Count-- : {1}", DateTime.Now.ToString("HH:mm:ss.fff"), count); //lấy ra thời gian của hệ thống
                 Thread.Sleep(1000); //lớp tiểu trình có sẵn trong C#, chương trình sẽ tạm nghỉ delay milisecond
-               
-            }
-            
-        }
 
+            }
+
+        }
     }
 }

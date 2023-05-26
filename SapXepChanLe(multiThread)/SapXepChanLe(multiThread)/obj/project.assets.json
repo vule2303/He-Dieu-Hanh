@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Documents\\GitHub\\He-Dieu-Hanh\\MultiThread\\MultiThread.csproj",
-      "projectName": "MultiThread",
-      "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\He-Dieu-Hanh\\MultiThread\\MultiThread.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Documents\\GitHub\\He-Dieu-Hanh\\SapXepChanLe(multiThread)\\SapXepChanLe(multiThread)\\SapXepChanLe(multiThread).csproj",
+      "projectName": "SapXepChanLe(multiThread)",
+      "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\He-Dieu-Hanh\\SapXepChanLe(multiThread)\\SapXepChanLe(multiThread)\\SapXepChanLe(multiThread).csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\He-Dieu-Hanh\\MultiThread\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\He-Dieu-Hanh\\SapXepChanLe(multiThread)\\SapXepChanLe(multiThread)\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

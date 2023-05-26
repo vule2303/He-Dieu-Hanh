@@ -1,35 +1,34 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MultiThread
+namespace SapXepChanLe_multiThread_
 {
-    public class SapXepChanLe
+    public class Sort
     {
-        public  int[] number;
-        public  int[] oddArray;
-        public  int[] evenArray;
-        public  int[] combineArray;
+        public int[] number;
+        public int[] oddArray;
+        public int[] evenArray;
+        public int[] combineArray;
 
         public void AddArray(int n)
         {
-            
+
             number = new int[n];
-            for(int i = 0; i < n; i++)
+            for (int i = 0; i < n; i++)
             {
-                Console.Write("Nhap phan tu thu {0}: ", i+1);
+                Console.Write("Nhap phan tu thu {0}: ", i + 1);
                 number[i] = int.Parse(Console.ReadLine());
             }
         }
 
-        
+
         public void ODDArray()
         {
-            oddArray = number.Where(n => n %2 == 0).OrderBy(n => n).ToArray();
-            Console.WriteLine("ODD Array is: ");
+            oddArray = number.Where(n => n % 2 == 0).OrderBy(n => n).ToArray();
+            Console.WriteLine("\nODD Array is: ");
             for (int i = 0; i < oddArray.Length; i++)
             {
                 Console.Write(oddArray[i] + " ");
@@ -50,13 +49,13 @@ namespace MultiThread
         {
             int pos = 0;
             combineArray = new int[oddArray.Length + evenArray.Length];
-            foreach(int values in oddArray)
+            foreach (int values in oddArray)
             {
                 combineArray[pos] = values;
                 pos++;
             }
 
-            foreach(int values in evenArray)
+            foreach (int values in evenArray)
             {
                 combineArray[pos] = values;
                 pos++;
@@ -64,8 +63,8 @@ namespace MultiThread
 
             //in ra 
 
-            Console.WriteLine("COMBINE Array is: ");
-            for(int i = 0;i< combineArray.Length; i++)
+            Console.WriteLine("\nCOMBINE Array is: ");
+            for (int i = 0; i < combineArray.Length; i++)
             {
                 Console.Write(combineArray[i] + " ");
             }

@@ -33,6 +33,9 @@ public class Program {
         }
         a.FIFO(ListTT);
 
+
+        RR roud = new RR(ListTT,4);
+        roud.ChayThuatToan();
         
         Console.ReadLine();
 

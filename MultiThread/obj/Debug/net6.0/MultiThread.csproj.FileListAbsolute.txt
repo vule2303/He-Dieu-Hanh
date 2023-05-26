@@ -1,0 +1,15 @@
+E:\VU\githud\He_Dieu_Hanh\MultiThread\bin\Debug\net6.0\MultiThread.exe
+E:\VU\githud\He_Dieu_Hanh\MultiThread\bin\Debug\net6.0\MultiThread.deps.json
+E:\VU\githud\He_Dieu_Hanh\MultiThread\bin\Debug\net6.0\MultiThread.runtimeconfig.json
+E:\VU\githud\He_Dieu_Hanh\MultiThread\bin\Debug\net6.0\MultiThread.dll
+E:\VU\githud\He_Dieu_Hanh\MultiThread\bin\Debug\net6.0\MultiThread.pdb
+E:\VU\githud\He_Dieu_Hanh\MultiThread\obj\Debug\net6.0\MultiThread.csproj.AssemblyReference.cache
+E:\VU\githud\He_Dieu_Hanh\MultiThread\obj\Debug\net6.0\MultiThread.GeneratedMSBuildEditorConfig.editorconfig
+E:\VU\githud\He_Dieu_Hanh\MultiThread\obj\Debug\net6.0\MultiThread.AssemblyInfoInputs.cache
+E:\VU\githud\He_Dieu_Hanh\MultiThread\obj\Debug\net6.0\MultiThread.AssemblyInfo.cs
+E:\VU\githud\He_Dieu_Hanh\MultiThread\obj\Debug\net6.0\MultiThread.csproj.CoreCompileInputs.cache
+E:\VU\githud\He_Dieu_Hanh\MultiThread\obj\Debug\net6.0\MultiThread.dll
+E:\VU\githud\He_Dieu_Hanh\MultiThread\obj\Debug\net6.0\refint\MultiThread.dll
+E:\VU\githud\He_Dieu_Hanh\MultiThread\obj\Debug\net6.0\MultiThread.pdb
+E:\VU\githud\He_Dieu_Hanh\MultiThread\obj\Debug\net6.0\MultiThread.genruntimeconfig.cache
+E:\VU\githud\He_Dieu_Hanh\MultiThread\obj\Debug\net6.0\ref\MultiThread.dll

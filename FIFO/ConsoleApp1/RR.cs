@@ -45,10 +45,7 @@ namespace ConsoleApp1
                 }
                 
             }
-            foreach (var tt in ListRR)
-            {
-                Console.WriteLine(tt);
-            }
+            
         }
             //xuat ra qua trinh
             
